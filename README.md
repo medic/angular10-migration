@@ -1,4 +1,4 @@
-#Webapp migration to Angular 10
+# Webapp migration to Angular 10
 
 The purpose of this repo is to track issues, bugs, todos, and anything else that might be related to the Angular 10 migration. 
 
